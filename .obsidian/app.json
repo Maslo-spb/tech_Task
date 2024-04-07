@@ -1,0 +1,39 @@
+{
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "current",
+  "newFileFolderPath": "New(Unsorted)",
+  "newLinkFormat": "relative",
+  "attachmentFolderPath": "./_attachments",
+  "showFrontmatter": true,
+  "useMarkdownLinks": true,
+  "spellcheckDictionary": [
+    "Диоксидин",
+    "виумксидин",
+    "Цефтриаксон",
+    "Диоксидин",
+    "Носифит",
+    "Синуфронт",
+    "Цефтриаксон",
+    "Авамис",
+    "Зодак",
+    "зорекс",
+    "sфыввыфвфывd",
+    "BUSD",
+    "USDC",
+    "IMOEX",
+    "Beta-alanine",
+    "скрине",
+    "всплывашки",
+    "подсветится",
+    "подсветится",
+    "Картинка-превью"
+  ],
+  "promptDelete": false,
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
+}

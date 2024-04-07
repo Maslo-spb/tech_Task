@@ -1,0 +1,11 @@
+{
+  "file-explorer:new-file-in-new-pane": [],
+  "hotkeysplus-obsidian:insert-line-below": [
+    {
+      "modifiers": [
+        "Shift"
+      ],
+      "key": "Enter"
+    }
+  ]
+}
