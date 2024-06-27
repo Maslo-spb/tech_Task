@@ -16,5 +16,7 @@
   "obsidian-excalidraw-plugin",
   "highlightr-plugin",
   "table-editor-obsidian",
-  "image-converter"
+  "image-converter",
+  "obsidian-plugin-toc",
+  "obsidian-pandoc"
 ]
