@@ -18,26 +18,5 @@
       "value": "#ff0565"
     }
   ],
-  "fileColors": [
-    {
-      "path": "Сайт/ТЗ",
-      "color": "lphMldYOq9k8vrzVslkxw"
-    },
-    {
-      "path": "Сайт/ТЗ/1-ая версия.md",
-      "color": "kMxmI1D9cy_Yql7zJshIp"
-    },
-    {
-      "path": "Сайт/ТЗ/Админка/Связь со страницами покупателя/Блог.md",
-      "color": "kMxmI1D9cy_Yql7zJshIp"
-    },
-    {
-      "path": "Сайт/ТЗ/Админка/Связь со страницами покупателя/Масло СПб вики (Словарь терминов).md",
-      "color": "kMxmI1D9cy_Yql7zJshIp"
-    },
-    {
-      "path": "Сайт/ТЗ/Активлог.md",
-      "color": "kMxmI1D9cy_Yql7zJshIp"
-    }
-  ]
+  "fileColors": []
 }
