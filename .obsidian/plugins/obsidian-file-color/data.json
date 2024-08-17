@@ -15,8 +15,65 @@
     {
       "id": "h1LxEIC1SAgy6fLyJiYtd",
       "name": "V2",
-      "value": "#ff0565"
+      "value": "#ff0000"
     }
   ],
-  "fileColors": []
+  "fileColors": [
+    {
+      "path": "Сайт/ТЗ",
+      "color": "lphMldYOq9k8vrzVslkxw"
+    },
+    {
+      "path": "Сайт/ТЗ/✅1-ая версия.md",
+      "color": "kMxmI1D9cy_Yql7zJshIp"
+    },
+    {
+      "path": "Сайт/ТЗ/✅Активлог.md",
+      "color": "kMxmI1D9cy_Yql7zJshIp"
+    },
+    {
+      "path": "Сайт/ТЗ/Общие моменты/ℹ️Обозначения цветов.md",
+      "color": "lphMldYOq9k8vrzVslkxw"
+    },
+    {
+      "path": "Сайт/ТЗ/Общие моменты/Общие анимации и хотелки.md",
+      "color": "lphMldYOq9k8vrzVslkxw"
+    },
+    {
+      "path": "Сайт/ТЗ/Страницы покупателя/Покупателям/✅Масло СПб wiki.md",
+      "color": "kMxmI1D9cy_Yql7zJshIp"
+    },
+    {
+      "path": "Сайт/Правки по разработке/Готовые/АктивЛог.md",
+      "color": "kMxmI1D9cy_Yql7zJshIp"
+    },
+    {
+      "path": "Сайт/ТЗ/Возможности ролей пользователей/✅Маркетолог.md",
+      "color": "kMxmI1D9cy_Yql7zJshIp"
+    },
+    {
+      "path": "Сайт/ТЗ/Админка/Детализация функционала/Регистрация.md",
+      "color": "lphMldYOq9k8vrzVslkxw"
+    },
+    {
+      "path": "Сайт/ТЗ/Админка/Детализация функционала/✨Товаровед.md",
+      "color": "h1LxEIC1SAgy6fLyJiYtd"
+    },
+    {
+      "path": "Сайт/ТЗ/Админка/Связь со страницами покупателя/✅1-ая версия",
+      "color": "kMxmI1D9cy_Yql7zJshIp"
+    },
+    {
+      "path": "Сайт/ТЗ/✨2-ая версия.md",
+      "color": "h1LxEIC1SAgy6fLyJiYtd"
+    },
+    {
+      "path": "Сайт/ТЗ/Возможности ролей пользователей/✨Товаровед.md",
+      "color": "h1LxEIC1SAgy6fLyJiYtd"
+    },
+    {
+      "path": "Сайт/ТЗ/Общие моменты/✨Иерархия товаров.md",
+      "color": "h1LxEIC1SAgy6fLyJiYtd"
+    }
+  ]
 }
