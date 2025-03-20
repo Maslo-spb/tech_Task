@@ -19,5 +19,8 @@
   "image-converter",
   "obsidian-plugin-toc",
   "obsidian-pandoc",
-  "obsidian-file-color"
+  "obsidian-file-color",
+  "oz-clear-unused-images",
+  "callout-manager",
+  "dashboard-navigator"
 ]
